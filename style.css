@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 95vh;
+    width: 100vw;
+}
+
+#heading{
+    text-align: center;
+}
